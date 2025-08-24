@@ -132,5 +132,7 @@ Customer-Segmentation-KMeans/
 
 HARSHITHA PRASAD S G
 GITHUB: harshithaprasadprasad
+
 LINKEDIN: https://www.linkedin.com/in/harshitha-prasad-s-g-55a05a257
+
 Machine Learning Internship @ Skillcraft Technology (Task 2)
