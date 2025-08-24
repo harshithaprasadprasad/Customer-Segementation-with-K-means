@@ -131,6 +131,7 @@ Customer-Segmentation-KMeans/
  # Developed By
 
 HARSHITHA PRASAD S G
+
 GITHUB: harshithaprasadprasad
 
 LINKEDIN: https://www.linkedin.com/in/harshitha-prasad-s-g-55a05a257
